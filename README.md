@@ -4,4 +4,4 @@
 
 
 
-[My Slider](https://sergeymankevich.github.io/resume/)
+[My Slider](https://sergeymankevich.github.io/slider/)
